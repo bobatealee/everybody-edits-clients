@@ -6,4 +6,6 @@ You can [fork](https://github.com/bobatealee/everybody-edits-clients/fork) this 
 
 Clients are stored in folders according to their server version, and named according to their compile date and client version (e.g. `v204/2015_12_25_v612.swf`).
 
-Server version and compile dates are found inside of the client, while the version derives from the Player.IO asset version. Unknown client versions are labeled 'unknown'.
+Server version and compile dates are found inside of the client, while the version derives from the Player.IO asset version.
+
+Unknown client versions are labeled 'unknown', while clients that are byte-identical to the previously available one are marked as 'identical'.
