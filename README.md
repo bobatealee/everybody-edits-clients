@@ -2,7 +2,7 @@
 An archive of game clients for the 2010 Adobe Flash game, Everybody Edits.
 
 ## How to Contribute
-You can [fork](https://github.com/bobatealee/everybody-edits-clients/fork) this repository, add your files and/or correct information, and create a [pull request](https://github.com/bobatealee/everybody-edits-clients/pulls).
+You can [fork](https://github.com/everybodyedits/client-archive/fork) this repository, add your files and/or correct information, and create a [pull request](https://github.com/everybodyedits/client-archive/pulls).
 
 ### Replacing Unverified Files
 Clients labeled as 'unknown' or 'conflicted' could use your help! In most cases, information about these is not known, such as true client versions.
